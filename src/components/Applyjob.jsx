@@ -70,7 +70,7 @@ function Applyjob() {
            <div className='d-flex align-items-center justify-content-center p-5 flex-column'>
            <h1 className='text-center text-primary fw-bolder fs-1'>Available Jobs</h1>
                 
-                    <Table striped bordered hover variant="warning mt-3" style={{width:"1600px"}} >
+                    <Table striped bordered hover variant="warning mt-3" style={{width:"1300px"}} >
                   <thead>
                     <tr>
                       <th>#</th>
